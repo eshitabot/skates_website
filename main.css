@@ -1,0 +1,48 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.sectionLight{
+    background-color: #eceeef;
+    padding:2em;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.coolStuff{
+    margin:20px;
+}
+button.coolStuffbtn{
+    background-color: red;
+    color:white;
+    display: block;
+    margin:auto;
+}
+h5.modal-title{
+    margin: auto;
+    padding: 2rem;
+}
+.imgCenter{
+    margin:auto;
+    display: block;
+}
+.btnCenter{
+    color: white;
+    display: block;
+    margin: auto;
+    width:50%;
+    background-color: red;
+    margin-bottom: 20px;
+    margin-top: 20px;
+   
+}
+.footerImage{
+    padding: 10px;
+}
+.fa-facebook-square{
+    color:blue;
+}
+footer{
+    background-color: black;
+}
